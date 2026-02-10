@@ -1,12 +1,14 @@
 # IA et LLM
 
-## Synthèse des apprentissages
-_Pas encore de fiches dans ce domaine._
+Connaissances sur l'intelligence artificielle, les grands modèles de langage et les systèmes agents.
 
-## Fiches (0 au total)
-| Date | Titre | Auteur | Tags |
-|------|-------|--------|------|
+## Sous-domaines
+
+| Sous-domaine | Description | Fiches |
+|--------------|-------------|--------|
+| [Agents](agents/_index.md) | Architecture d'agents IA, skills, orchestration | 1 |
+| [Prompt Engineering](prompt-engineering/_index.md) | Techniques de prompting et optimisation | 0 |
+| [RAG et Context](rag-et-context/_index.md) | Retrieval-augmented generation, gestion du contexte | 0 |
 
 ---
-*Dernière mise à jour : —*
-*Générée automatiquement par Claude Code — ne pas éditer manuellement*
+*Mis à jour le 2026-02-10*

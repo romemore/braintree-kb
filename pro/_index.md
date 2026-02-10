@@ -1,20 +1,16 @@
-# Domaine Professionnel
+# Professionnel
 
-## Synthèse des apprentissages
-Base de connaissances professionnelle couvrant l'architecture logicielle,
-l'IA et les LLM, les pratiques d'ingénierie, le management et la veille marché.
+Connaissances liées au développement professionnel, à l'ingénierie logicielle et à la veille technologique.
 
-## Sous-domaines
-- [Architecture](architecture/_index.md) — Patterns, méthodologies, design system
-- [IA et LLM](ia-et-llm/_index.md) — Agents, prompt engineering, RAG
-- [Engineering Practices](engineering-practices/_index.md) — Testing, DevOps, qualité
-- [Management et Orga](management-et-orga/_index.md) — Leadership, organisation
-- [Veille Marché](veille-marche/_index.md) — Tendances, outils, écosystème
+## Domaines
 
-## Fiches (0 au total)
-| Date | Titre | Domaine | Tags |
-|------|-------|---------|------|
+| Domaine | Description | Fiches |
+|---------|-------------|--------|
+| [IA et LLM](ia-et-llm/_index.md) | Intelligence artificielle, modèles de langage, agents | 1 |
+| [Architecture](architecture/_index.md) | Design système, API, microservices | 0 |
+| [Engineering Practices](engineering-practices/_index.md) | Qualité code, DevOps, testing | 0 |
+| [Management et Orga](management-et-orga/_index.md) | Organisation, leadership, processus | 0 |
+| [Veille Marché](veille-marche/_index.md) | Tendances, analyse marché | 0 |
 
 ---
-*Dernière mise à jour : —*
-*Générée automatiquement par Claude Code — ne pas éditer manuellement*
+*Mis à jour le 2026-02-10*
