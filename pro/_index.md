@@ -6,7 +6,7 @@ Connaissances liées au développement professionnel, à l'ingénierie logiciell
 
 | Domaine | Description | Fiches |
 |---------|-------------|--------|
-| [IA et LLM](ia-et-llm/_index.md) | Intelligence artificielle, modèles de langage, agents | 1 |
+| [IA et LLM](ia-et-llm/_index.md) | Intelligence artificielle, modèles de langage, agents | 2 |
 | [Architecture](architecture/_index.md) | Design système, API, microservices | 0 |
 | [Engineering Practices](engineering-practices/_index.md) | Qualité code, DevOps, testing | 0 |
 | [Management et Orga](management-et-orga/_index.md) | Organisation, leadership, processus | 0 |
