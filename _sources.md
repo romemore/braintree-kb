@@ -10,6 +10,7 @@ Toutes les URLs traitées par KnowledgeForge.
 | 2026-02-10 | [The two patterns by which agents connect sandboxes](https://x.com/hwchase17/status/2021261552222158955) | article | [sandbox-agent-patterns](pro/ia-et-llm/agents/2026-02-10-sandbox-agent-patterns.md) |
 | 2026-02-11 | [Recursive Language Models (RLM) could be the next big thing in AI](https://x.com/AlphaSignalAI/status/2021069299402862672) | paper | [recursive-language-models](pro/ia-et-llm/rag-et-context/2026-02-11-recursive-language-models.md) |
 | 2026-02-11 | [every OpenClaw user must read this](https://x.com/davidondrej1/status/2021220394611462641) | tweet | [openclaw-securite-config](pro/ia-et-llm/agents/2026-02-11-openclaw-securite-config.md) |
+| 2026-02-11 | [Minions: Stripe's one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents) | article | [minions-stripe-coding-agents](pro/ia-et-llm/agents/2026-02-11-minions-stripe-coding-agents.md) |
 
 ---
 *Générée automatiquement par Claude Code — ne pas éditer manuellement*
