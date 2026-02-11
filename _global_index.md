@@ -6,7 +6,7 @@
 | Domaine | Fiches | Dernière mise à jour |
 |---------|--------|---------------------|
 | Architecture | 0 | — |
-| [IA et LLM](pro/ia-et-llm/_index.md) | 4 | 2026-02-10 |
+| [IA et LLM](pro/ia-et-llm/_index.md) | 5 | 2026-02-11 |
 | Engineering Practices | 0 | — |
 | Management et Orga | 0 | — |
 | Veille Marché | 0 | — |
@@ -20,9 +20,9 @@
 | Apprentissage | 0 | — |
 
 ## Statistiques
-- **Total fiches** : 4
+- **Total fiches** : 5
 - **Total domaines** : 9
-- **Dernière mise à jour** : 2026-02-10
+- **Dernière mise à jour** : 2026-02-11
 
 ---
 *Générée automatiquement par Claude Code — ne pas éditer manuellement*
