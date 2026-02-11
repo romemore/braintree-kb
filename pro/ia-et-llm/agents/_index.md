@@ -12,6 +12,7 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 | 2026-02-10 | [Les deux patterns d'intégration agent-sandbox](2026-02-10-sandbox-agent-patterns.md) | Harrison Chase identifie deux architectures pour connecter un agent à un sandbox : l'agent dans le sandbox (couplage fort) ou le sandbox comme outil externe (sécurité, flexibilité). Le choix dépend du compromis intégration vs flexibilité. |
 | 2026-02-11 | [OpenClaw : sécurité et configuration essentielles](2026-02-11-openclaw-securite-config.md) | David Ondrej alerte sur la sécurité d'OpenClaw : 40 000+ instances exposées, CVE critique, skills malveillants sur ClawHub. La configuration sécurisée (sandbox, permissions, tokens) est indispensable. |
 | 2026-02-11 | [Minions : les agents de code one-shot de Stripe](2026-02-11-minions-stripe-coding-agents.md) | Stripe a développé "Minions", des agents de code internes produisant 1 000+ PRs/semaine. Architecture : devboxes pré-chauffées + fork de Goose + 400+ outils MCP internes. Illustre l'approche "build over buy" à grande échelle. |
+| 2026-02-11 | [Déployer l'IA dans les départements finance : retour d'expérience CFO](2026-02-11-ia-agents-cfo-finance.md) | Vasuman Moza (Varick Agents, ex-Meta) partage ses enseignements après avoir accompagné des dizaines de CFO d'entreprises à 1B+ ARR : transformer des départements entiers avec des agents IA plutôt qu'ajouter des outils SaaS ponctuels. |
 
 ## Thèmes récurrents
 - Architecture convergente des agents généralistes (boucle agent + runtime + MCP + skills)
@@ -28,6 +29,8 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 - Pré-hydratation déterministe du contexte avant exécution de l'agent
 - Agents one-shot en production : 1 000+ PRs/semaine chez Stripe
 - MCP comme couche d'unification des outils internes (Toolshed, 400+ outils)
+- Déploiement d'agents IA en enterprise finance : transformation de département vs outil ponctuel
+- CFO de grandes entreprises (1B+ ARR) en phase de déploiement massif en 2026
 
 ---
-*Mis à jour le 2026-02-11 — 6 fiches*
+*Mis à jour le 2026-02-11 — 7 fiches*
