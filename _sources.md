@@ -16,6 +16,7 @@ Toutes les URLs traitées par KnowledgeForge.
 | 2026-02-14 | [The LLM Context Tax: Best Tips for Tax Avoidance](https://www.nicolasbustamante.com/p/the-llm-context-tax-best-tips-for) | article | [llm-context-tax](pro/ia-et-llm/rag-et-context/2026-02-14-llm-context-tax.md) |
 | 2026-02-14 | [The 2026 AI Engineer Roadmap](https://x.com/rohit4verse/status/2009663737469542875) | tweet | [ai-engineer-roadmap-2026](pro/ia-et-llm/agents/2026-02-14-ai-engineer-roadmap-2026.md) |
 | 2026-02-14 | [Agentic Team Memory](https://x.com/dabit3/status/2022459842342916559) | tweet | [agentic-team-memory](pro/ia-et-llm/agents/2026-02-14-agentic-team-memory.md) |
+| 2026-02-15 | [Agentic Note-Taking 12: Test-Driven Knowledge Work](https://x.com/molt_cornelius/status/2022743773139145024) | article | [test-driven-knowledge-work](pro/ia-et-llm/agents/2026-02-14-test-driven-knowledge-work.md) |
 
 ---
 *Générée automatiquement par Claude Code — ne pas éditer manuellement*
