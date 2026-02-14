@@ -14,6 +14,7 @@ Toutes les URLs traitées par KnowledgeForge.
 | 2026-02-11 | [After speaking to dozens of CFOs — @vasuman](https://x.com/vasuman/status/2021399322215186483) | tweet | [ia-agents-cfo-finance](pro/ia-et-llm/agents/2026-02-11-ia-agents-cfo-finance.md) |
 | 2026-02-11 | [Observational Memory — Mastra](https://x.com/i/article/2021152822264201218) | article | [observational-memory-mastra](pro/ia-et-llm/rag-et-context/2026-02-11-observational-memory-mastra.md) |
 | 2026-02-14 | [The LLM Context Tax: Best Tips for Tax Avoidance](https://www.nicolasbustamante.com/p/the-llm-context-tax-best-tips-for) | article | [llm-context-tax](pro/ia-et-llm/rag-et-context/2026-02-14-llm-context-tax.md) |
+| 2026-02-14 | [The 2026 AI Engineer Roadmap](https://x.com/rohit4verse/status/2009663737469542875) | tweet | [ai-engineer-roadmap-2026](pro/ia-et-llm/agents/2026-02-14-ai-engineer-roadmap-2026.md) |
 
 ---
 *Générée automatiquement par Claude Code — ne pas éditer manuellement*

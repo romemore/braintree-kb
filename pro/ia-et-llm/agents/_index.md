@@ -13,6 +13,7 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 | 2026-02-11 | [OpenClaw : sécurité et configuration essentielles](2026-02-11-openclaw-securite-config.md) | David Ondrej alerte sur la sécurité d'OpenClaw : 40 000+ instances exposées, CVE critique, skills malveillants sur ClawHub. La configuration sécurisée (sandbox, permissions, tokens) est indispensable. |
 | 2026-02-11 | [Minions : les agents de code one-shot de Stripe](2026-02-11-minions-stripe-coding-agents.md) | Stripe a développé "Minions", des agents de code internes produisant 1 000+ PRs/semaine. Architecture : devboxes pré-chauffées + fork de Goose + 400+ outils MCP internes. Illustre l'approche "build over buy" à grande échelle. |
 | 2026-02-11 | [Déployer l'IA dans les départements finance : retour d'expérience CFO](2026-02-11-ia-agents-cfo-finance.md) | Vasuman Moza (Varick Agents, ex-Meta) partage ses enseignements après avoir accompagné des dizaines de CFO d'entreprises à 1B+ ARR : transformer des départements entiers avec des agents IA plutôt qu'ajouter des outils SaaS ponctuels. |
+| 2026-02-14 | [The 2026 AI Engineer Roadmap](2026-02-14-ai-engineer-roadmap-2026.md) | En 2026, l'écart salarial de 150k$ entre prompt engineers et architectes systèmes IA illustre que la valeur réside dans la construction de systèmes complets, pas dans le prompting seul. |
 
 ## Thèmes récurrents
 - Architecture convergente des agents généralistes (boucle agent + runtime + MCP + skills)
@@ -31,6 +32,8 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 - MCP comme couche d'unification des outils internes (Toolshed, 400+ outils)
 - Déploiement d'agents IA en enterprise finance : transformation de département vs outil ponctuel
 - CFO de grandes entreprises (1B+ ARR) en phase de déploiement massif en 2026
+- Écart croissant prompt engineer vs systems architect (150k$ en 2026)
+- Commoditisation du prompting, prime à l'ingénierie système
 
 ---
-*Mis à jour le 2026-02-11 — 7 fiches*
+*Mis à jour le 2026-02-14 — 8 fiches*
