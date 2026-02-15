@@ -16,6 +16,7 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 | 2026-02-14 | [The 2026 AI Engineer Roadmap](2026-02-14-ai-engineer-roadmap-2026.md) | En 2026, l'écart salarial de 150k$ entre prompt engineers et architectes systèmes IA illustre que la valeur réside dans la construction de systèmes complets, pas dans le prompting seul. |
 | 2026-02-14 | [Agentic Team Memory : encoder le savoir tribal pour les agents IA](2026-02-14-agentic-team-memory.md) | Nader Dabit argumente que le savoir tribal d'équipe, mal capturé par les wikis obsolètes, peut être encodé dans des fichiers de contexte agents (CLAUDE.md) qui deviennent des artefacts vivants maintenus activement. |
 | 2026-02-14 | [Test-Driven Knowledge Work : appliquer le TDD à la gestion de connaissances](2026-02-14-test-driven-knowledge-work.md) | Cornelius propose d'appliquer les principes du TDD au travail de connaissance : définir des critères de vérification avant de traiter une information, puis tester si le traitement a produit une compréhension actionnable. |
+| 2026-02-15 | [WebMCP : un standard web pour les agents IA](2026-02-15-webmcp-early-preview.md) | Google Chrome lance WebMCP en early preview, un framework standardisant l'interaction entre agents IA et sites web via deux APIs complémentaires (déclarative et impérative), rendant les sites "agent-ready". |
 
 ## Thèmes récurrents
 - Architecture convergente des agents généralistes (boucle agent + runtime + MCP + skills)
@@ -42,6 +43,9 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 - Test-Driven Knowledge Work : définir des critères de vérification avant le traitement d'information
 - Agents de notes comme testeurs de compréhension, pas archivistes
 - Analogie TDD (Red-Green-Refactor) appliquée au PKM agentique
+- WebMCP : standard web pour interaction structurée agent-site (API déclarative + impérative)
+- Passage du scraping fragile aux contrats d'interface explicites pour les agents
+- Sites "agent-ready" comme avantage compétitif (parallèle mobile-first)
 
 ---
-*Mis à jour le 2026-02-15 — 10 fiches*
+*Mis à jour le 2026-02-15 — 11 fiches*
