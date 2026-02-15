@@ -19,6 +19,7 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 | 2026-02-15 | [WebMCP : un standard web pour les agents IA](2026-02-15-webmcp-early-preview.md) | Google Chrome lance WebMCP en early preview, un framework standardisant l'interaction entre agents IA et sites web via deux APIs complémentaires (déclarative et impérative), rendant les sites "agent-ready". |
 | 2026-02-15 | [Construire un agent IA production-grade](2026-02-15-production-grade-ai-agent.md) | Plus de 40 % des projets d'IA agentique échouent à cause de contrôles de risques inadéquats, d'architecture pauvre et de valeur métier floue — pas à cause des modèles. |
 | 2026-02-15 | [Mémoire des agents LLM : OpenClaw face à l'état de l'art](2026-02-15-memoire-agents-llm-openclaw.md) | Analyse comparative de 10 systèmes de mémoire pour agents LLM. OpenClaw se distingue par sa transparence file-first et son pre-compaction memory flush, mais accuse un retard sur les graphes de connaissances et la mémoire autonome. |
+| 2026-02-15 | [Architectures de mémoire pour agents autonomes : analyse critique](2026-02-15-architectures-memoire-agents-autonomes.md) | Rapport exhaustif comparant les architectures mémoire pour agents LLM en 2026 : OpenClaw (file-first), Claude Code (stateless, MCP Tool Search), plugins MemOS/Mem0, et systèmes académiques MAGMA/EverMemOS/A-Mem/Zep. Claude Code domine en efficacité tokens (90-95%), OpenClaw seul à offrir la souveraineté mémorielle. |
 
 ## Thèmes récurrents
 - Architecture convergente des agents généralistes (boucle agent + runtime + MCP + skills)
@@ -58,6 +59,13 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 - Taxonomie CoALA : mémoire de travail + LT épisodique/sémantique/procédurale comme framework de référence
 - Mémoire auto-organisatrice (A-MEM) : ajout de mémoires déclenche mise à jour des représentations existantes
 - 56% d'écart performances humaines sur LoCoMo → mémoire agent = problème ouvert
+- MCP Tool Search : chargement dynamique des outils à la demande, réduction 85% tokens outils
+- Fusion de scores pondérée (pas RRF) pour préserver la magnitude du signal de similarité
+- Architectures multi-graphes (MAGMA) : politique de traversée adaptative selon l'intention de requête
+- EverMemOS MemCell : composante prédictive "Foresight" avec intervalle de validité pour filtrer les infos périmées
+- "Compromission déléguée" (ClawHavoc) : nouveau vecteur d'attaque ciblant l'agent de confiance via skills malveillants
+- Approche "Contexte Brut" vs "Extraction" : ré-interprétation rétroactive supérieure pour tâches critiques
+- Convergence fin 2026 : graphes locaux + récupération agentique standardisée (MCP) + sandboxing
 
 ---
-*Mis à jour le 2026-02-15 — 13 fiches*
+*Mis à jour le 2026-02-15 — 14 fiches*
