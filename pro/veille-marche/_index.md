@@ -1,12 +1,16 @@
 # Veille Marché
 
-## Synthèse des apprentissages
-_Pas encore de fiches dans ce domaine._
+Veille stratégique sur les tendances macro-économiques, géopolitiques et sectorielles impactant les décisions professionnelles et d'investissement.
 
-## Fiches (0 au total)
-| Date | Titre | Auteur | Tags |
-|------|-------|--------|------|
+## Sous-domaines
+
+| Sous-domaine | Fiches | Description |
+|--------------|--------|-------------|
+| [Géopolitique](geopolitique/_index.md) | 1 | Dynamiques géopolitiques mondiales et rapports de force |
+
+## Statistiques
+- **Total fiches** : 1
+- **Dernière mise à jour** : 2026-02-15
 
 ---
-*Dernière mise à jour : —*
-*Générée automatiquement par Claude Code — ne pas éditer manuellement*
+*Dernière mise à jour : 2026-02-15*

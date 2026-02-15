@@ -10,7 +10,7 @@ Connaissances liées au développement professionnel, à l'ingénierie logiciell
 | [Architecture](architecture/_index.md) | Design système, API, microservices | 0 |
 | [Engineering Practices](engineering-practices/_index.md) | Qualité code, DevOps, testing | 0 |
 | [Management et Orga](management-et-orga/_index.md) | Organisation, leadership, processus | 0 |
-| [Veille Marché](veille-marche/_index.md) | Tendances, analyse marché | 0 |
+| [Veille Marché](veille-marche/_index.md) | Tendances, analyse marché, géopolitique | 1 |
 
 ---
-*Mis à jour le 2026-02-14*
+*Mis à jour le 2026-02-15*

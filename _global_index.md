@@ -9,7 +9,7 @@
 | [IA et LLM](pro/ia-et-llm/_index.md) | 15 | 2026-02-15 |
 | Engineering Practices | 0 | — |
 | Management et Orga | 0 | — |
-| Veille Marché | 0 | — |
+| [Veille Marché](pro/veille-marche/_index.md) | 1 | 2026-02-15 |
 
 ### Personnel (`perso/`)
 | Domaine | Fiches | Dernière mise à jour |
@@ -20,7 +20,7 @@
 | Apprentissage | 0 | — |
 
 ## Statistiques
-- **Total fiches** : 15
+- **Total fiches** : 16
 - **Total domaines** : 9
 - **Dernière mise à jour** : 2026-02-15
 
