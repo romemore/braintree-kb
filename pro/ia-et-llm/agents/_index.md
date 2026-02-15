@@ -18,6 +18,7 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 | 2026-02-14 | [Test-Driven Knowledge Work : appliquer le TDD à la gestion de connaissances](2026-02-14-test-driven-knowledge-work.md) | Cornelius propose d'appliquer les principes du TDD au travail de connaissance : définir des critères de vérification avant de traiter une information, puis tester si le traitement a produit une compréhension actionnable. |
 | 2026-02-15 | [WebMCP : un standard web pour les agents IA](2026-02-15-webmcp-early-preview.md) | Google Chrome lance WebMCP en early preview, un framework standardisant l'interaction entre agents IA et sites web via deux APIs complémentaires (déclarative et impérative), rendant les sites "agent-ready". |
 | 2026-02-15 | [Construire un agent IA production-grade](2026-02-15-production-grade-ai-agent.md) | Plus de 40 % des projets d'IA agentique échouent à cause de contrôles de risques inadéquats, d'architecture pauvre et de valeur métier floue — pas à cause des modèles. |
+| 2026-02-15 | [Mémoire des agents LLM : OpenClaw face à l'état de l'art](2026-02-15-memoire-agents-llm-openclaw.md) | Analyse comparative de 10 systèmes de mémoire pour agents LLM. OpenClaw se distingue par sa transparence file-first et son pre-compaction memory flush, mais accuse un retard sur les graphes de connaissances et la mémoire autonome. |
 
 ## Thèmes récurrents
 - Architecture convergente des agents généralistes (boucle agent + runtime + MCP + skills)
@@ -49,6 +50,14 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 - Sites "agent-ready" comme avantage compétitif (parallèle mobile-first)
 - 40 %+ des projets agents échouent : risk controls, architecture et business value comme piliers
 - Distinction chatbot (texte passif) vs agent (action autonome) comme critère d'exigence
+- Trois paradigmes de mémoire agent : file-first (OpenClaw, Claude Code), OS-style pagination (Letta/MemGPT), graphe temporel (Zep/Graphiti)
+- Pre-compaction memory flush : écrire les mémoires durables sur disque avant compression du contexte
+- Retrieval hybride BM25+vecteur avec fusion pondérée (pas RRF) pour préserver les scores significatifs
+- Recherche agentique sans embeddings (Claude Code) : grep/glob + raisonnement modèle comme alternative viable au RAG
+- Modèle bitemporel (Zep) : double timestamp validité réelle + enregistrement système pour le raisonnement temporel
+- Taxonomie CoALA : mémoire de travail + LT épisodique/sémantique/procédurale comme framework de référence
+- Mémoire auto-organisatrice (A-MEM) : ajout de mémoires déclenche mise à jour des représentations existantes
+- 56% d'écart performances humaines sur LoCoMo → mémoire agent = problème ouvert
 
 ---
-*Mis à jour le 2026-02-15 — 12 fiches*
+*Mis à jour le 2026-02-15 — 13 fiches*

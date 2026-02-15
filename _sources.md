@@ -20,6 +20,7 @@ Toutes les URLs traitées par KnowledgeForge.
 | 2026-02-15 | [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp) | article | [webmcp-early-preview](pro/ia-et-llm/agents/2026-02-15-webmcp-early-preview.md) |
 | 2026-02-15 | [How to Build a Production Grade AI Agent](https://x.com/rohit4verse/status/2022709729450201391) | tweet | [production-grade-ai-agent](pro/ia-et-llm/agents/2026-02-15-production-grade-ai-agent.md) |
 | 2026-02-15 | [It's Official: The World Order Has Broken Down](https://x.com/raydalio/status/2022788750388998543) | article | [effondrement-ordre-mondial](pro/veille-marche/geopolitique/2026-02-15-effondrement-ordre-mondial.md) |
+| 2026-02-15 | Mémoire des agents LLM : OpenClaw face à l'état de l'art (PDF) | article | [memoire-agents-llm-openclaw](pro/ia-et-llm/agents/2026-02-15-memoire-agents-llm-openclaw.md) |
 
 ---
 *Générée automatiquement par Claude Code — ne pas éditer manuellement*
