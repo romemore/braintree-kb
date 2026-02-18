@@ -28,6 +28,7 @@ Toutes les URLs traitées par KnowledgeForge.
 | 2026-02-18 | [Skill Graphs > SKILL.md — @arscontexta](https://x.com/arscontexta/status/2023957499183829467) | tweet | [skill-graphs-vs-skill-md](pro/ia-et-llm/agents/2026-02-18-skill-graphs-vs-skill-md.md) |
 | 2026-02-18 | [La French — IA Vocale avec Naïl Zeghidour (Kyutai / Gradium)](https://youtu.be/E5c6gpNI2rY?si=nRGMXaMLSZFizlIL) | vidéo | [ia-vocale-etat-art-gradium](pro/ia-et-llm/ia-vocale/2026-02-18-ia-vocale-etat-art-gradium.md) |
 | 2026-02-18 | [Nos 7 Prédictions pour 2026 : IA, Energie, Hardware, Financement, Talents! — À la French](https://youtu.be/cM7CGDEx0E0?si=UTmhfjysJZmdG78M) | vidéo | [predictions-ia-2026-a-la-french](pro/veille-marche/saas-et-ia/2026-02-18-predictions-ia-2026-a-la-french.md) |
+| 2026-02-18 | [Vibecoding: Ce que l'IA change VRAIMENT pour les Développeurs — À la French](https://youtu.be/25MwBEWxQG0?si=jqn_5Tw8V6c1c_Vf) | vidéo | [vibe-coding-debat-a-la-french](pro/ia-et-llm/agents/2026-02-18-vibe-coding-debat-a-la-french.md) |
 
 ---
 *Générée automatiquement par Claude Code — ne pas éditer manuellement*
