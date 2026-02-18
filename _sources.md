@@ -25,6 +25,7 @@ Toutes les URLs traitées par KnowledgeForge.
 | 2026-02-16 | [How to Design Using AI in 2026 — @Av1dlive](https://x.com/av1dlive/status/2023086925817729306) | tweet | [design-ia-vibe-coding](pro/ia-et-llm/design-ia/2026-02-16-design-ia-vibe-coding.md) |
 | 2026-02-18 | [10 Years Building Vertical Software: My Perspective on the Selloff — @nicbstme](https://x.com/nicbstme/status/2023501562480644501) | article | [vertical-software-selloff-perspective](pro/veille-marche/saas-et-ia/2026-02-18-vertical-software-selloff-perspective.md) |
 | 2026-02-18 | [Boris Cherny: How We Built Claude Code](https://www.youtube.com/watch?v=PQU9o_5rHC4) | vidéo | [boris-cherny-claude-code-genese](pro/ia-et-llm/agents/2026-02-18-boris-cherny-claude-code-genese.md) |
+| 2026-02-18 | [Skill Graphs > SKILL.md — @arscontexta](https://x.com/arscontexta/status/2023957499183829467) | tweet | [skill-graphs-vs-skill-md](pro/ia-et-llm/agents/2026-02-18-skill-graphs-vs-skill-md.md) |
 
 ---
 *Générée automatiquement par Claude Code — ne pas éditer manuellement*

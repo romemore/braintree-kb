@@ -21,6 +21,7 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 | 2026-02-15 | [Mémoire des agents LLM : OpenClaw face à l'état de l'art](2026-02-15-memoire-agents-llm-openclaw.md) | Analyse comparative de 10 systèmes de mémoire pour agents LLM. OpenClaw se distingue par sa transparence file-first et son pre-compaction memory flush, mais accuse un retard sur les graphes de connaissances et la mémoire autonome. |
 | 2026-02-15 | [Architectures de mémoire pour agents autonomes : analyse critique](2026-02-15-architectures-memoire-agents-autonomes.md) | Rapport exhaustif comparant les architectures mémoire pour agents LLM en 2026 : OpenClaw (file-first), Claude Code (stateless, MCP Tool Search), plugins MemOS/Mem0, et systèmes académiques MAGMA/EverMemOS/A-Mem/Zep. Claude Code domine en efficacité tokens (90-95%), OpenClaw seul à offrir la souveraineté mémorielle. |
 | 2026-02-18 | [Boris Cherny : Comment Claude Code a été construit](2026-02-18-boris-cherny-claude-code-genese.md) | Boris Cherny révèle la genèse accidentelle de Claude Code (septembre 2024), les principes fondateurs d'Anthropic (build for the model of tomorrow, Bitter Lesson, latent demand), l'architecture multi-agents en production, et ses prédictions sur la disparition du titre "Software Engineer". |
+| 2026-02-18 | [Skill Graphs : dépasser les limites du SKILL.md monolithique](2026-02-18-skill-graphs-vs-skill-md.md) | Heinrich propose de remplacer le fichier SKILL.md unique par un graphe de skills — un réseau de fichiers markdown interconnectés par des wikilinks, rendant la connaissance traversable et composable à n'importe quelle profondeur. |
 
 ## Thèmes récurrents
 - Architecture convergente des agents généralistes (boucle agent + runtime + MCP + skills)
@@ -75,6 +76,9 @@ Architecture, patterns et écosystème des agents d'intelligence artificielle.
 - Uncorrelated context windows : fenêtres de contexte indépendantes = forme de test-time compute pour problèmes complexes
 - 150% de productivité par ingénieur chez Anthropic depuis Claude Code (mesure PRs), 90-100% du code écrit par l'agent
 - Titre "Software Engineer" prédit en voie de disparition — vers "Builder" avec périmètre product + design + engineering + users
+- Skill Graphs : réseau de fichiers markdown liés par wikilinks vs SKILL.md monolithique — traversée récursive pour la profondeur de domaine
+- Connaissance procédurale en graphe : chargement sélectif du contexte selon le chemin de traversée
+- arscontexta : 249 fichiers interconnectés générant un "second cerveau" adapté au workflow utilisateur
 
 ---
-*Mis à jour le 2026-02-18 — 15 fiches*
+*Mis à jour le 2026-02-18 — 16 fiches*
