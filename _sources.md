@@ -23,6 +23,7 @@ Toutes les URLs traitées par KnowledgeForge.
 | 2026-02-15 | Mémoire des agents LLM : OpenClaw face à l'état de l'art (PDF) | article | [memoire-agents-llm-openclaw](pro/ia-et-llm/agents/2026-02-15-memoire-agents-llm-openclaw.md) |
 | 2026-02-15 | Analyse Mémoire Agents LLM Comparée (PDF) | article | [architectures-memoire-agents-autonomes](pro/ia-et-llm/agents/2026-02-15-architectures-memoire-agents-autonomes.md) |
 | 2026-02-16 | [How to Design Using AI in 2026 — @Av1dlive](https://x.com/av1dlive/status/2023086925817729306) | tweet | [design-ia-vibe-coding](pro/ia-et-llm/design-ia/2026-02-16-design-ia-vibe-coding.md) |
+| 2026-02-18 | [10 Years Building Vertical Software: My Perspective on the Selloff — @nicbstme](https://x.com/nicbstme/status/2023501562480644501) | article | [vertical-software-selloff-perspective](pro/veille-marche/saas-et-ia/2026-02-18-vertical-software-selloff-perspective.md) |
 
 ---
 *Générée automatiquement par Claude Code — ne pas éditer manuellement*
