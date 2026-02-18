@@ -27,6 +27,7 @@ Toutes les URLs traitées par KnowledgeForge.
 | 2026-02-18 | [Boris Cherny: How We Built Claude Code](https://www.youtube.com/watch?v=PQU9o_5rHC4) | vidéo | [boris-cherny-claude-code-genese](pro/ia-et-llm/agents/2026-02-18-boris-cherny-claude-code-genese.md) |
 | 2026-02-18 | [Skill Graphs > SKILL.md — @arscontexta](https://x.com/arscontexta/status/2023957499183829467) | tweet | [skill-graphs-vs-skill-md](pro/ia-et-llm/agents/2026-02-18-skill-graphs-vs-skill-md.md) |
 | 2026-02-18 | [La French — IA Vocale avec Naïl Zeghidour (Kyutai / Gradium)](https://youtu.be/E5c6gpNI2rY?si=nRGMXaMLSZFizlIL) | vidéo | [ia-vocale-etat-art-gradium](pro/ia-et-llm/ia-vocale/2026-02-18-ia-vocale-etat-art-gradium.md) |
+| 2026-02-18 | [Nos 7 Prédictions pour 2026 : IA, Energie, Hardware, Financement, Talents! — À la French](https://youtu.be/cM7CGDEx0E0?si=UTmhfjysJZmdG78M) | vidéo | [predictions-ia-2026-a-la-french](pro/veille-marche/saas-et-ia/2026-02-18-predictions-ia-2026-a-la-french.md) |
 
 ---
 *Générée automatiquement par Claude Code — ne pas éditer manuellement*
