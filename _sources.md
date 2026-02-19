@@ -30,6 +30,7 @@ Toutes les URLs traitées par KnowledgeForge.
 | 2026-02-18 | [Nos 7 Prédictions pour 2026 : IA, Energie, Hardware, Financement, Talents! — À la French](https://youtu.be/cM7CGDEx0E0?si=UTmhfjysJZmdG78M) | vidéo | [predictions-ia-2026-a-la-french](pro/veille-marche/saas-et-ia/2026-02-18-predictions-ia-2026-a-la-french.md) |
 | 2026-02-18 | [Vibecoding: Ce que l'IA change VRAIMENT pour les Développeurs — À la French](https://youtu.be/25MwBEWxQG0?si=jqn_5Tw8V6c1c_Vf) | vidéo | [vibe-coding-debat-a-la-french](pro/ia-et-llm/agents/2026-02-18-vibe-coding-debat-a-la-french.md) |
 | 2026-02-18 | [La French — Anastasia Stasenko / Playas : SLM, données synthétiques, open data](https://youtu.be/wirmd5kCWok?si=juhBmWikS3XuQvE9) | vidéo | [anastasia-stasenko-playas-slm-donnees](pro/ia-et-llm/slm-et-donnees/2026-02-18-anastasia-stasenko-playas-slm-donnees.md) |
+| 2026-02-19 | [How To Use Prediction Market Data Like Hedge Funds — @RohOnChain](https://x.com/i/article/2022988148943601665) | article | [prediction-markets-hedge-funds](pro/finance/marches-prediction/2026-02-17-prediction-markets-hedge-funds.md) |
 
 ---
 *Générée automatiquement par Claude Code — ne pas éditer manuellement*

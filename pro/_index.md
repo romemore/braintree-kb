@@ -6,11 +6,12 @@ Connaissances liées au développement professionnel, à l'ingénierie logiciell
 
 | Domaine | Description | Fiches |
 |---------|-------------|--------|
-| [IA et LLM](ia-et-llm/_index.md) | Intelligence artificielle, modèles de langage, agents | 12 |
+| [IA et LLM](ia-et-llm/_index.md) | Intelligence artificielle, modèles de langage, agents | 23 |
+| [Finance](finance/_index.md) | Marchés financiers, stratégies d'investissement, données alternatives | 1 |
 | [Architecture](architecture/_index.md) | Design système, API, microservices | 0 |
 | [Engineering Practices](engineering-practices/_index.md) | Qualité code, DevOps, testing | 0 |
 | [Management et Orga](management-et-orga/_index.md) | Organisation, leadership, processus | 0 |
-| [Veille Marché](veille-marche/_index.md) | Tendances, analyse marché, géopolitique | 1 |
+| [Veille Marché](veille-marche/_index.md) | Tendances, analyse marché, géopolitique | 3 |
 
 ---
-*Mis à jour le 2026-02-15*
+*Mis à jour le 2026-02-19*
